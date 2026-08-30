@@ -1,5 +1,3 @@
-Here is your complete **`Notes15.md`**, continuing your Python Beginners Notes series.
-
 # Python Beginners Notes – Notes 15
 
 ## 📘 Topic: Regular Expressions (Regex) in Python
