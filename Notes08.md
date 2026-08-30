@@ -1,5 +1,3 @@
-Here is the complete **`Notes8.md`**, continuing your Python Beginners series with **Tuples in Python**.
-
 # 🐍 Python Beginners – Notes 8
 
 ## 📌 Topic: Tuples in Python
