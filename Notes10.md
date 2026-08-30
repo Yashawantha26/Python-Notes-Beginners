@@ -1,5 +1,3 @@
-Absolutely. Since your previous **Notes 6–9** are Python beginner notes, here is a complete **`Notes10.md`** you can copy directly.
-
 # Python Beginners Notes – Notes 10
 
 ## 📘 Topic: File Handling in Python
