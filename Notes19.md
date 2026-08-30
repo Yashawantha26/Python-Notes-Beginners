@@ -1,5 +1,3 @@
-Here is your complete **`Notes19.md`**, continuing the Python Beginners Notes series.
-
 # Python Beginners Notes – Notes 19
 
 # 📦 Python Modules, Packages & Imports
