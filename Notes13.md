@@ -1,5 +1,3 @@
-Here is your complete **`Notes13.md`**, continuing from OOP Basics with the next important concepts.
-
 # Python Beginners Notes – Notes 13
 
 ## 📘 Topic: Advanced OOP in Python
