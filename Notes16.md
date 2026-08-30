@@ -1,5 +1,3 @@
-Here is your complete **`Notes16.md`**, continuing the Python Beginners Notes series.
-
 # Python Beginners Notes – Notes 16
 
 ## 📘 Topic: Modules, Packages & pip in Python
