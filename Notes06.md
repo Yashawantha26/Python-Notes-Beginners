@@ -1,5 +1,3 @@
-Absolutely. Here is the **complete `Notes6.md`** ready to copy into your Python beginners notes.
-
 ````markdown
 # 🐍 Python Beginners – Notes 6
 
