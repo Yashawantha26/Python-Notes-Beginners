@@ -1,5 +1,3 @@
-Here is your complete **`Notes11.md`** in the same beginner-friendly format, ready to copy.
-
 # Python Beginners Notes – Notes 11
 
 ## 📘 Topic: Modules and Packages in Python
