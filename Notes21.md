@@ -1,5 +1,3 @@
-Here is your complete **`Notes21.md`**, continuing the Python Beginners Notes series.
-
 # Python Beginners Notes – Notes 21
 
 # 🛡️ Python Exception Handling
