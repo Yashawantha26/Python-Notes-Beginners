@@ -1,5 +1,3 @@
-Here is your complete **`Notes12.md`**, continuing your Python Beginners Notes series. You can copy it directly into your file.
-
 # Python Beginners Notes – Notes 12
 
 ## 📘 Topic: Object-Oriented Programming (OOP) Basics
