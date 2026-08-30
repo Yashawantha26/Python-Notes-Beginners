@@ -1,5 +1,3 @@
-Here is your complete **`Notes17.md`**, continuing your Python Beginners Notes series.
-
 # Python Beginners Notes – Notes 17
 
 ## 📘 Topic: Object-Oriented Programming (OOP) in Python
