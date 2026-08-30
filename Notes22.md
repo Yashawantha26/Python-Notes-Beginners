@@ -1,9 +1,3 @@
-Absolutely. For **Notes22.md**, I’ll make it much more interview-focused than a normal OOP lesson: **company-wise + year-wise interview patterns, beginner → advanced questions, answers, coding questions, output questions, and solutions**.
-
-One important note: company interview questions are not always officially published, so the company/year sections below should be treated as **reported/common interview patterns and preparation sets**, not guaranteed exact questions from a particular interview. Current Python/OOP interview guides consistently emphasize classes/objects, `self`, class vs instance attributes, inheritance/MRO, `super()`, overriding, dunder methods, and abstraction. ([PapersAdda][1])
-
-# Python Beginners Notes – Notes 22
-
 # 🚀 Python OOP Interview Questions & Answers
 
 ## Company-Wise + Year-Wise Interview Preparation
