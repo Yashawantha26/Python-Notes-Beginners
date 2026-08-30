@@ -1,5 +1,3 @@
-Here is your complete **`Notes14.md`**, continuing your Python Beginners Notes series.
-
 # Python Beginners Notes – Notes 14
 
 ## 📘 Topic: Exception Handling & Error Handling in Python
