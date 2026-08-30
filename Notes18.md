@@ -1,5 +1,3 @@
-Absolutely — here is the complete **`Notes18.md`**, continuing from Notes 17.
-
 # Python Beginners Notes – Notes 18
 
 # 🔄 Iterators, Iterables & Generators
