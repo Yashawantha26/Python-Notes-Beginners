@@ -1,5 +1,3 @@
-Here is your complete **`Notes20.md`**, continuing the Python Beginners Notes series.
-
 # Python Beginners Notes – Notes 20
 
 # 📁 Python File Handling
